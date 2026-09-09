@@ -1,8 +1,8 @@
 class Agentwatcher < Formula
   desc "Menu bar health monitor for AI coding sessions"
   homepage "https://github.com/dwenking/agentwatcher"
-  url "https://github.com/dwenking/agentwatcher/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "b3997f23d74d9e1cac9337464dd3bb2c47ce40471e117fa6c822ff3affc94771"
+  url "https://github.com/dwenking/agentwatcher/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "9d498d882d9a62aa8e3db67342e45216ce7981df580c65a50055761d9902c8b6"
   license "MIT"
 
   depends_on :macos
